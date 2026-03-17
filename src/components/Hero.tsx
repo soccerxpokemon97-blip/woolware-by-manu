@@ -13,7 +13,7 @@ export default function Hero() {
       <div className="absolute inset-0 bg-charcoal/60" />
       <div className="relative z-10 mx-auto max-w-4xl px-6 text-center text-warm-white">
         <h1 className="font-heading text-5xl font-bold leading-tight md:text-7xl">
-          Wärme, die von Herzen kommt
+          Wärme, welche von Herzen kommt
         </h1>
         <p className="mt-6 text-lg leading-relaxed text-cream-dark md:text-xl">
           Handgemachte Wollprodukte aus Deutschland — mit Liebe gefertigt von Manu
